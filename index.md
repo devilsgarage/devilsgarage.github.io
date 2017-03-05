@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages 
+## Resources Experience Motion Graphics
 
 You can use the [editor on GitHub](https://github.com/devilsgarage/devilsgarage.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
